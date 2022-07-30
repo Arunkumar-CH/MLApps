@@ -18,4 +18,4 @@ To automate the loan eligibility process in realtime based on customer detail le
 
 
 # Data Preprocessing to Model deployment is explained in below link:
-&&
+[Loan eligibility ML Model](/MLApps/blob/master/1.Loan%20Eligibility(MachineLearningModel)/1.3.Deploying%20Loan%20approval%20model%20using%20Streamlit.ipynb)
