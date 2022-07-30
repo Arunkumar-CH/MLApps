@@ -10,7 +10,7 @@ To automate the loan eligibility process in realtime based on customer detail le
 # Feature selection:
 
 | Variable | Description |
-| -------- | ----------- | 
+| :--------| :----------- | 
 | Gender | Male/ Female | 
 | Married | Applicant married (Y/N) |
 | Monthly Income | In Rupees |
