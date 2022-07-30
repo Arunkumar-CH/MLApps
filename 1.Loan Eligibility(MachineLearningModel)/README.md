@@ -8,20 +8,10 @@ We can automate the eligibility checking process with a ML model based on data g
 To automate the loan eligibility process in realtime based on customer detail let's provided the customer an online application form. And these are the details that customer need to share i.e. Gender, Marital Status, Income, Loan Amount. To automate this process, we need identify the customers segments, those are eligible for loan amount so that they can specifically target these customers. Here they have provided a partial data set.
 
 # Feature selection:
-	
-Gender	Male/ Female
-Married	Applicant married (Y/N)
-Dependents	Number of dependents
-Education	Applicant Education (Graduate/ Under Graduate)
-Self_Employed	Self employed (Y/N)
-ApplicantIncome	Applicant income
-CoapplicantIncome	Coapplicant income
-LoanAmount	Loan amount in thousands
-Loan_Amount_Term	Term of loan in months
-Credit_History	credit history meets guidelines
-Property_Area	Urban/ Semi Urban/ Rural
-Loan_Status	Loan approved (Y/N)
 
-Variable | Description | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-Gender | Male/ Female | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
+| Variable | Description |
+| -------- | ----------- | 
+| Gender | Male/ Female | 
+| Married | Applicant married (Y/N) |
+| Monthly Income | In Rupees |
+| Loan Amount | In Rupees |
