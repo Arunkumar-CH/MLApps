@@ -15,3 +15,7 @@ To automate the loan eligibility process in realtime based on customer detail le
 | Married | Applicant married (Y/N) |
 | Monthly Income | In Rupees |
 | Loan Amount | In Rupees |
+
+
+# Data Preprocessing to Model deployment is explained in below link:
+&&
