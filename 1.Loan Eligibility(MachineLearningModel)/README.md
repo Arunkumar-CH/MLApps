@@ -17,5 +17,32 @@ To automate the loan eligibility process in realtime based on customer detail le
 | Loan Amount | In Rupees |
 
 
-# Data Preprocessing to Model deployment is explained in below link:
-[Loan eligibility ML Model](/MLApps/blob/master/1.Loan%20Eligibility(MachineLearningModel)/1.3.Deploying%20Loan%20approval%20model%20using%20Streamlit.ipynb)
+# Loan Eligibility Prediction
+## Steps involved:
+  1. Loading the dataset
+  2. Pre-processing the dataset
+  3. Building the Loan Prediction model
+
+## 1. Loading the dataset
+```diff
+#importing libraries
+
+import pandas as pd
+
+#loading the dataset
+train = pd.read_csv('C:\\Users\\Arunkumar\\OneDrive\\Documents\\Data Science\\Deploying Machine Learning model using Streamlit\\loan_data.csv')
+train.head()
+```
+## 2. Pre-processing the dataset
+```diff
+#converting categories into numbers
+train['Gender']= train['Gender'].map({'Male':0, 'Female':1})
+train['Married']= train['Married'].map({'No':0, 'Yes':1})
+train['Loan_Status']= train['Loan_Status'].map({'N':0, 'Y':1})
+```
+```
+train.head()
+X.head()
+y.head()
+```
+## 3. Building the Loan Prediction model
