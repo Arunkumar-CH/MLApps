@@ -1,7 +1,9 @@
 ### Problem Statement:
 
-A company XYZ 
-Let us say a bank want to automate the loan eligibility process (real time) based on customer detail provided while filling online application form. These details are Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and others. To automate this process, they have given a problem to identify the customers segments, those are eligible for loan amount so that they can specifically target these customers. Here they have provided a partial data set.
+Let us say a major bank deals in all home loans and as a process the customer first applies for a home loan, after which the company validates the customer's eligibility to decide to lend loan. Since this is a big bank, hundreds of applications need to be reviewed and approved on a daily basis. Let's assume 1 person process 25 application a day then ideally bank would need to have 4 employees and if one employee average salary is 4500 SGD, it would cost 18000 SGD per month and 216K per annum to a bank to have a team to pick eligible customers to lend loan.
+
+
+encounters a daily situation where they have to review awant to automate the loan eligibility process in realtime based on customer detail provided while filling online application form. These details are Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and others. To automate this process, they have given a problem to identify the customers segments, those are eligible for loan amount so that they can specifically target these customers. Here they have provided a partial data set.
 
 Dataset Description:
 Variable	Description
