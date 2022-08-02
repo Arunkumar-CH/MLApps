@@ -193,6 +193,5 @@ public_url = ngrok.connect('8509')
 public_url
 ```
 ## 5. In addition I have deployed the model on AWS and Huggingface space
-
 ### Huggingface
 https://huggingface.co/spaces/ArunkumarCH/LoanApprovalModel
