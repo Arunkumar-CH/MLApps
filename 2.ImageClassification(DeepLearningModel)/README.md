@@ -1,5 +1,5 @@
 # About this DeepLearning Model:
-  We will build an front end application to upload the image and deeplearning model predicts the name of the object with acccuracy.
+  We will build an front end application to upload the image and get the deeplearning model predicts the name of the object with acccuracy.
   
 # Steps for building the Image classification model:
 ## 1. Image classification model using pretrained DL model
