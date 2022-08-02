@@ -4,7 +4,7 @@ Let us say a major bank deals in all home loans and as a process the customer fi
 
 We can automate the eligibility checking process with a ML model based on data gathered from the loan applicant.
 
-# Let's 
+# Let’s look at the steps from loading the data to deploying the model. 
 To automate the loan eligibility process in realtime based on customer detail let's provided the customer an online application form. And these are the details that customer need to share i.e. Gender, Marital Status, Income, Loan Amount. To automate this process, we need identify the customers segments, those are eligible for loan amount so that they can specifically target these customers. Here they have provided a partial data set.
 
 # Feature selection:
@@ -192,3 +192,6 @@ from pyngrok import ngrok
 public_url = ngrok.connect('8509')
 public_url
 ```
+## In addition I have deployed the model on AWS and Huggingface space
+### Huggingface
+[https://huggingface.co/spaces/ArunkumarCH/LoanApprovalModel]
