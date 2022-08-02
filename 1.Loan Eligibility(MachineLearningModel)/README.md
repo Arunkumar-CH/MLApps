@@ -4,6 +4,14 @@ Let us say a major bank deals in all home loans and as a process the customer fi
 
 We can automate the eligibility checking process with a ML model based on data gathered from the loan applicant.
 
+# 6 Stages of any Machine Learning Lifecycle are:
+   1. Problem definition as defined above 
+   2. Hypothesis generation
+   3. Data collection
+   4. Data exploration and pre-processing
+   5. Model building
+   6. Model deployment and monitoring
+
 # Let’s look at the steps from loading the data to deploying the model. 
 To automate the loan eligibility process in realtime based on customer detail let's provided the customer an online application form. And these are the details that customer need to share i.e. Gender, Marital Status, Income, Loan Amount. To automate this process, we need identify the customers segments, those are eligible for loan amount so that they can specifically target these customers. Here they have provided a partial data set.
 
