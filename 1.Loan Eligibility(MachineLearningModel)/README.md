@@ -16,6 +16,10 @@ To automate the loan eligibility process in realtime based on customer detail le
 | Monthly Income | In Rupees |
 | Loan Amount | In Rupees |
 
+# Online Application form looks as:
+
+    <img width="372" alt="image" src="https://user-images.githubusercontent.com/95873178/182424164-f9743de2-4817-4f8d-af2f-51c6a3422705.png">
+
 
 # Loan Eligibility Prediction
 ## Steps involved:
