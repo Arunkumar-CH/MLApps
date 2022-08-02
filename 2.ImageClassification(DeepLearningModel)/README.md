@@ -155,4 +155,4 @@ if image is not None and st.button("Get prediction"):
 # Model can be deployed on AWS/Colab/Flask/Hugging Spaces
 
 ## Hugging spaces model
-
+https://huggingface.co/spaces/ArunkumarCH/BirdClassification
