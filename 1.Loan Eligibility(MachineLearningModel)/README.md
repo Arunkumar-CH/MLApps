@@ -192,6 +192,7 @@ from pyngrok import ngrok
 public_url = ngrok.connect('8509')
 public_url
 ```
-## In addition I have deployed the model on AWS and Huggingface space
+## 5. In addition I have deployed the model on AWS and Huggingface space
+
 ### Huggingface
-[https://huggingface.co/spaces/ArunkumarCH/LoanApprovalModel]
+https://huggingface.co/spaces/ArunkumarCH/LoanApprovalModel
