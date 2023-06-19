@@ -152,7 +152,7 @@ if image is not None and st.button("Get prediction"):
   public_url
 ```
 
-# Model can be deployed on AWS/Colab/Flask/Hugging Spaces
+# Model can be deployed on AWS/Colab/Flask/Huggingface
 
-## Hugging spaces model
+## Huggingface model
 https://huggingface.co/spaces/ArunkumarCH/BirdClassification
